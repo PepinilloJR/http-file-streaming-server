@@ -1,6 +1,6 @@
 # Features
 
-HTPP file streaming server allows the user to host a file streaming service, with any client compatible with HTTP streaming.
+HTTP file streaming server allows the user to host a file streaming service, with any client compatible with HTTP streaming.
 
 These are some of its features:
 * Directories and files management
